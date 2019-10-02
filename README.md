@@ -186,3 +186,5 @@ gs_edit_cells(ChuChuTV_Sheet, ws = "DataSheet",
               anchor = "L2", input = rownames(dffinal), 
               byrow = FALSE)
 
+# Final dashboard is available via Tableau Public
+https://public.tableau.com/shared/9KSZYDT78?:display_count=yes&:origin=viz_share_link
